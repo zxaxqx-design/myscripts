@@ -1,0 +1,184 @@
+Код товара: 005.200.210
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПРОФИ MIG 500 F
+РРЦ: 163400
+Поле продукта: 163400 (csyml_sales_notes)
+Кол-во: 17 
+
+Код товара: 005.100.278
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК МАСТЕР MIG 200 DP SYN NF99-4
+РРЦ: 62950
+Поле продукта: 62950 (csyml_sales_notes)
+Кол-во: 165
+	
+Код товара: 005.100.211
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК МАСТЕР MIG 180 NF15
+РРЦ: 26900
+Поле продукта: 26900 (csyml_sales_notes)
+Кол-во: 22
+	
+Код товара: 005.100.212
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК МАСТЕР MIG 200 NF16
+РРЦ: 28970
+Поле продукта: 28970 (csyml_sales_notes)
+Кол-во: 136 
+
+Код товара: 005.100.276
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК МАСТЕР MIG 230 SYN NF88
+РРЦ: 41500
+Поле продукта: 41500 (csyml_sales_notes)
+Кол-во: 75
+	
+Код товара: 005.500.236
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК RILON MIG 500 I (НАКС)
+РРЦ: 247400
+Поле продукта: 247400 (csyml_sales_notes)
+Кол-во: 4
+	
+Код товара: 005.400.203
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER MULTIMIG 350S DP H42
+РРЦ: 405130
+Поле продукта: 405130 (csyml_sales_notes)
+Кол-во: 9 
+
+Код товара: 005.400.204
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER MULTIMIG 500S DP H52
+РРЦ: 551930
+Поле продукта: 551930 (csyml_sales_notes)
+Кол-во: 15
+	
+Код товара: 005.400.202
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER MULTIMIG 500S EP H32
+РРЦ: 429795
+Поле продукта: 429795 (csyml_sales_notes)
+Кол-во: 2
+	
+Код товара: 005.200.212
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПРОФИ MIG 500 SYN FW
+РРЦ: 253200
+Поле продукта: 253200 (csyml_sales_notes)
+Кол-во: 14
+	
+Код товара: 005.200.213
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПРОФИ MIG 500 DP SYN FW
+РРЦ: 308530
+Поле продукта: 308530 (csyml_sales_notes)
+Кол-во: 22 
+
+Код товара: 005.400.208
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+	
+[Описание] Название: ПТК HANKER MULTIMIG 350S DP LCD H43
+РРЦ: 418180
+Поле продукта: 418180 (csyml_sales_notes)
+Кол-во: 9
+	
+Код товара: 005.400.206
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER MULTIMIG 350S EP LCD H23
+РРЦ: 299280
+Поле продукта: 299280 (csyml_sales_notes)
+Кол-во: 0
+	
+Код товара: 005.400.209
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER MULTIMIG 500S DP LCD H53
+РРЦ: 567790
+Поле продукта: 567790 (csyml_sales_notes)
+Кол-во: 2
+	
+Код товара: 005.400.207
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER MULTIMIG 500S EP LCD H33
+РРЦ: 444410
+Поле продукта: 444410 (csyml_sales_notes)
+Кол-во: 2
+	
+Код товара: 005.300.285
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК RILON MIG 205 SYN
+РРЦ: 39140
+Поле продукта: 39140 (csyml_sales_notes)
+Кол-во: 12
+	
+Код товара: 005.300.306
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК RILON TIG 400 P AC/DC DIGITAL
+РРЦ: 177660
+Поле продукта: 177660 (csyml_sales_notes)
+Кол-во: 10
+	
+Код товара: 005.200.372
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК МАСТЕР TIG 200 PULSE D91 (НАКС)
+РРЦ: 40500
+Поле продукта: 40500 (csyml_sales_notes)
+Кол-во: 3 
+
+Код товара: 005.400.401
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER TIG 300 DIGITAL P AC/DC H39
+РРЦ: 160140
+Поле продукта: 160140 (csyml_sales_notes)
+Кол-во: 6 
+
+Код товара: 005.400.405
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER TIG 300 P AC/DC LCD H17
+РРЦ: 165320
+Поле продукта: 165320 (csyml_sales_notes)
+Кол-во: 15
+	
+Код товара: 005.300.302
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК RILON TIG 200 DE
+РРЦ: 29190
+Поле продукта: 29190 (csyml_sales_notes)
+Кол-во: 39
+	
+Код товара: 005.300.503
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК RILON CUT 60 СT
+РРЦ: 51360
+Поле продукта: 51360 (csyml_sales_notes)
+Кол-во: 36
+	
+Код товара: 005.400.501
+Бренд:
+Категория: RETAILFACTORY_STOCK_PARSER
+[Описание] Название: ПТК HANKER CUT 120 CNC H64
+РРЦ: 295410
+Поле продукта: 295410 (csyml_sales_notes)
+Кол-во: 2 

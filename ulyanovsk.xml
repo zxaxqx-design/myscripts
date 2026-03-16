@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-10-16T10:47:01+04:00">
+<shop>
+<name><![CDATA[100kwatt.ru]]></name>
+<company><![CDATA[100kwatt.ru]]></company>
+<platform>CS-Cart</platform>
+<version>4.18.3</version>
+<url>https://100kwatt.ru/</url>
+
+<currencies><currency id="RUB" rate="1"/></currencies>
+
+        <categories>
+            <category id="861">Сварочные аппараты</category>
+            <category id="48">Грузоподъемное оборудование и механизмы</category>
+            <category id="2725">Складская техника</category>
+            <category id="229">Подъемники строительные</category>
+            <category id="554">Гидравлический инструмент и оборудование</category>
+            <category id="73">Строительная техника и оборудование</category>
+            <category id="4">Электрогенераторы</category>
+            <category id="29">Станки и другое оборудование</category>
+            <category id="43">Компрессоры</category>
+            <category id="1333">Сельхоз и коммунальная техника</category>
+            <category id="204">Техника для активного отдыха</category>
+            <category id="1881">Автосервисное оборудование, для гаража</category>
+            <category id="203">Садовая техника</category>
+            <category id="715">Климат и сантехника</category>
+            <category id="6">Насосы</category>
+            <category id="32">Расходные материалы, комплектующие и оснастка</category>
+            <category id="4072">Аксессуары для гидравлического инструмента</category>
+            <category id="834" parentId="1">Стабилизатор напряжения TCC</category>
+            <category id="406" parentId="1">Стабилизаторы напряжения Ресанта</category>
+            <category id="474" parentId="1">Стабилизаторы напряжения Энергия</category>
+            <category id="64" parentId="1">Стабилизаторы напряжения Каскад Россия</category>
+            <category id="411" parentId="1">Стабилизаторы напряжения SUNTEK</category>
+            <category id="19" parentId="1">ЛАТРы (Лабораторные автотрасформаторы)</category>
+            <category id="354" parentId="4">Электрогенераторы бензиновые</category>
+            <category id="355" parentId="4">Дизельные генераторы портативные</category>
+            <category id="356" parentId="4">Инверторные генераторы</category>
+            <category id="1011" parentId="4">Газовые генераторы</category>
+            <category id="833" parentId="4">Сварочные генераторы</category>
+            <category id="3050" parentId="4">Дизельные электростанции ДГУ</category>
+            <category id="3037" parentId="4">Синхронные генераторы</category>
+            <category id="709" parentId="4">Дополнительное оборудование к электростанциям</category>
+            <category id="2711" parentId="4">Блок-контейнеры</category>
+            <category id="4080" parentId="4">Портативные зарядные станции</category>
+            <category id="7" parentId="6">Дренажные насосы</category>
+            <category id="8" parentId="6">Автоматические станции водоснабжения</category>
+            <category id="9" parentId="6">Скважинные насосы</category>
+            <category id="55" parentId="6">Поверхностные насосы</category>
+            <category id="56" parentId="6">Мотопомпы</category>
+            <category id="213" parentId="6">Фекальные насосы </category>
+            <category id="723" parentId="6">Консольные и консольно-моноблочные насосы</category>
+            <category id="692" parentId="7">Дренажные насосы до 26 (м3/ч) напор до 15 (м)</category>
+            <category id="693" parentId="7">Дренажные насосы до 36 (м3/ч) напор до 17 (м)</category>
+            <category id="694" parentId="7">Дренажные насосы до 48 (м3/ч) напор до 19 (м)</category>
+            <category id="695" parentId="7">Дренажные насосы до 150 (м3/ч) напор до 24 (м)</category>
+            <category id="696" parentId="7">Дренажные насосы свыше 150 (м3/ч) напор до 22 (м)</category>
+            <category id="697" parentId="7">Дренажные насосы Zenit серии DRENO (DR)</category>
+            <category id="698" parentId="7">Дренажные насосы Calpeda серии GXC, GXV</category>
+            <category id="24">Электоропилы цепные</category>
+            <category id="996" parentId="12">Роботы-газонокосилки</category>
+            <category id="997" parentId="12">Аккумуляторные газонокосилки</category>
+            <category id="999" parentId="12">Бензиновые газонокосилки</category>
+            <category id="1000" parentId="12">Механические газонокосилки</category>
+            <category id="341" parentId="13">Мотоблоки бензиновые и дизельные </category>
+            <category id="2753" parentId="13">Мотоблоки бензиновые</category>
+            <category id="521" parentId="15">Бензиновые снегоуборщики</category>
+            <category id="522" parentId="15">Электрические снегоуборщики</category>
+            <category id="475" parentId="19">Однофазные ЛАТРы (автотрансформаторы)</category>
+            <category id="476" parentId="19">Трехфазные ЛАТРы (автотрансформаторы)</category>
+            <category id="176" parentId="20">Дизельные пушки</category>
+            <category id="212" parentId="20">Тепловые завесы </category>
+            <category id="402" parentId="20">Газовые пушки</category>
+            <category id="2956" parentId="20">Электрические пушки</category>
+            <category id="843">Детские квадроциклы</category>
+            <category id="69" parentId="29">Деревообрабатывающие станки</category>
+            <category id="301" parentId="29">Металлообрабатывающие станки</category>
+            <category id="512" parentId="29">Камнерезные станки, плиткорезы</category>
+            <category id="2913" parentId="29">Станки и инструмент для работы с трубами</category>
+            <category id="4103" parentId="29">Оборудование для переработки</category>
+            <category id="2985" parentId="29">Станки для бурения бетона</category>
+            <category id="979" parentId="29">Тиски и угловые зажимы</category>
+            <category id="3085" parentId="29">Станки для кабелей</category>
+            <category id="2939" parentId="29">Тросорезы, кабелерезы</category>
+            <category id="2762" parentId="29">Гидравлические станки</category>
+            <category id="4132" parentId="29">Станки для РВД</category>
+            <category id="2938" parentId="29">Рейкорезы</category>
+            <category id="866" parentId="32">Расходные материалы для сварки</category>
+            <category id="1015" parentId="32">Для сварочных аппаратов</category>
+            <category id="1019" parentId="32">Для садовой и сельхоз техники</category>
+            <category id="1016" parentId="32">Для складской и грузоподъемной техники</category>
+            <category id="1017" parentId="32">Для гидравлического оборудования</category>
+            <category id="1018" parentId="32">Расходные материалы для строительной техники </category>
+            <category id="894" parentId="32">Расходные материалы и запчасти для компрессоров</category>
+            <category id="41" parentId="32">Отрезные круги по металлу</category>
+            <category id="47" parentId="32">Пильные диски по дереву</category>
+            <category id="761" parentId="32">Алмазные диски</category>
+            <category id="1249" parentId="32">Расходные материалы, ЗИП и комплектующие для электрогенераторов</category>
+            <category id="3029" parentId="32">Комплектующие для весов</category>
+            <category id="360" parentId="33">Алмазные диски универсальные Messer V/M</category>
+            <category id="361" parentId="33">Алмазные диски Messer для резки металла, рельс</category>
+            <category id="362" parentId="33">Алмазные диски Messer для резки бетона, свежего бетона </category>
+            <category id="363" parentId="33">Алмазные диски Messer для резки железобетона</category>
+            <category id="364" parentId="33">Алмазные диски Messer для резки асфальта</category>
+            <category id="365" parentId="33">Алмазные диски Messer для резки гранита</category>
+            <category id="366" parentId="33">Алмазные диски Messer для резки керамогранита</category>
+            <category id="367" parentId="33">Алмазные диски Messer для резки мрамора</category>
+            <category id="368" parentId="33">Алмазные диски Messer для резки керамической плитки</category>
+            <category id="369" parentId="33">Алмазные диски Messer для резки ПНЖБ (предварительно напряженного бетона)</category>
+            <category id="713" parentId="34">Аппараты аргонной сварки для алюминия AC/DC</category>
+            <category id="712" parentId="34">Сварочные аппараты постоянного тока TIG DC </category>
+            <category id="218" parentId="43">Ременные компрессоры</category>
+            <category id="217" parentId="43">Коаксиальные компрессоры (с прямым приводом) </category>
+            <category id="320" parentId="43">Передвижные компрессоры</category>
+            <category id="315" parentId="43">Винтовые компрессоры</category>
+            <category id="267" parentId="43">Безмасляные компрессоры</category>
+            <category id="418" parentId="43">Малошумные компрессоры</category>
+            <category id="268" parentId="43">Ресиверы воздушные для компрессора</category>
+            <category id="4078" parentId="43">Осушители сжатого воздуха</category>
+            <category id="65" parentId="48">Тельферы и Тали</category>
+            <category id="67" parentId="48">Гидравлические подъемные столы</category>
+            <category id="112" parentId="48">Лебедки</category>
+            <category id="932" parentId="48">Крановое оборудование</category>
+            <category id="135" parentId="48">Домкраты низкоподхватные с лапой (путевые, зацепные)</category>
+            <category id="158" parentId="48">Магнитные захваты</category>
+            <category id="891" parentId="48">Домкраты механические</category>
+            <category id="226" parentId="48">Такелажные тележки, платформы</category>
+            <category id="2989" parentId="48">Кабельные домкраты</category>
+            <category id="919" parentId="48">Захваты грузовые строительные</category>
+            <category id="3136" parentId="48">Стропы грузовые</category>
+            <category id="3028" parentId="48">Траверсы грузовые</category>
+            <category id="1004" parentId="48">Комплектующие и запасные части для тельферов и кранов</category>
+            <category id="3046" parentId="48">Балансиры пружинные</category>
+            <category id="3069" parentId="48">Кабельные барабаны</category>
+            <category id="918" parentId="48">Блоки и полиспасты</category>
+            <category id="2943" parentId="48">Бутылочные домкраты</category>
+            <category id="3014" parentId="48">Балки опорные и подвесные концевые</category>
+            <category id="3012" parentId="48">Крюки грузовые</category>
+            <category id="3024" parentId="48">Треноги перегрузочные</category>
+            <category id="376" parentId="56">Мотопомпы бензиновые</category>
+            <category id="380" parentId="56">Мотопомпы дизельные </category>
+            <category id="2950" parentId="61">Дизельные виброплиты</category>
+            <category id="2951" parentId="61">Бензиновые виброплиты</category>
+            <category id="2952" parentId="61">Электрические виброплиты 220В</category>
+            <category id="884" parentId="65">Тельферы электрические канатные</category>
+            <category id="90" parentId="65">Тали цепные электрические</category>
+            <category id="85" parentId="65">Мини тали электрические</category>
+            <category id="91" parentId="65">Тали ручные цепные</category>
+            <category id="390" parentId="66">Рохли, Гидравлические тележки стандартные</category>
+            <category id="389" parentId="66">Рохли с весами (Гидравлические тележки весовые)</category>
+            <category id="391" parentId="66">Ножничные гидравлические тележки (Рохли ножничные)</category>
+            <category id="392" parentId="66">Рохли длинные, удлиненные (Гидравлические тележки длинновильные)</category>
+            <category id="941" parentId="66">Гидравлические тележки (Рохли специальные)</category>
+            <category id="2837" parentId="66">Гидравлические тележки (Рохли с узкими и широкими вилами)</category>
+            <category id="2838" parentId="66">Рохли низкопрофильные (Гидравлические тележки низкие)</category>
+            <category id="4111" parentId="66">Рохли коротковильные, мини (Короткие гидравлически тележки)</category>
+            <category id="2976" parentId="67">Стационарные подъемные столы</category>
+            <category id="2977" parentId="67">Передвижные подъемные столы</category>
+            <category id="959" parentId="69">Рейсмусовые станки</category>
+            <category id="3040" parentId="69">Распиловочные станки</category>
+            <category id="960" parentId="69">Комбинированные станки</category>
+            <category id="70" parentId="69">Сверлильные станки по дереву</category>
+            <category id="4086" parentId="69">Токарные станки по дереву</category>
+            <category id="4087" parentId="69">Ленточнопильные станки по дереву</category>
+            <category id="4164" parentId="69">Шлифовальное оборудование</category>
+            <category id="1950" parentId="73">Виброоборудование </category>
+            <category id="642" parentId="73">Станки и инструменты для арматуры</category>
+            <category id="76" parentId="73">Нарезчики швов / Швонарезчики</category>
+            <category id="850" parentId="73">Резчики мягкой кровли</category>
+            <category id="4067" parentId="73">Резчики стен</category>
+            <category id="1869" parentId="73">Оборудование для бетона и раствора</category>
+            <category id="3072" parentId="73">Бензорезы</category>
+            <category id="2983" parentId="73">Бур машины</category>
+            <category id="3036" parentId="73">Экскаваторы</category>
+            <category id="178" parentId="73">Отбойные и рубильные молотки</category>
+            <category id="728" parentId="73">Навеска для коммунальных и строительных работ</category>
+            <category id="4127" parentId="73">Строительные леса</category>
+            <category id="2851" parentId="73">Фасадные подъёмники (строительные люльки)</category>
+            <category id="253" parentId="73">Фрезеровальные машины</category>
+            <category id="4076" parentId="73">Кромкофрезерные машины</category>
+            <category id="1908" parentId="73">Вышки-Тура</category>
+            <category id="345" parentId="73">Пескоструйные аппараты</category>
+            <category id="2923" parentId="73">Малярное оборудование</category>
+            <category id="3042" parentId="73">Гайковёрты</category>
+            <category id="4133" parentId="73">Мачты освещения</category>
+            <category id="2958" parentId="78">Двухроторные затирочные машины</category>
+            <category id="2959" parentId="78">Бензиновые затирочные машины</category>
+            <category id="2962" parentId="78">Электрические затирочные машины</category>
+            <category id="2963" parentId="78">Дизельные затирочные машины</category>
+            <category id="3097" parentId="78">Тележки для топпинга</category>
+            <category id="3159" parentId="90">Тали цепные стационарные </category>
+            <category id="3160" parentId="90">Тали цепные передвижные </category>
+            <category id="3142" parentId="90">Тельферы болгарские цепные</category>
+            <category id="3096" parentId="90">Тали цепные двухскоростные</category>
+            <category id="3158" parentId="90">Тали цепные взрывобезопасные</category>
+            <category id="95" parentId="91">Тали ручные рычажные</category>
+            <category id="96" parentId="91">Тали ручные червячные</category>
+            <category id="92" parentId="91">Тали ручные шестеренные цепные</category>
+            <category id="910" parentId="91">Тали ручные взрывобезопасные</category>
+            <category id="100" parentId="99">Тележки приводные к тали ручной (тележки для ворот)</category>
+            <category id="101" parentId="99">Тележки холостые к тали ручной цепной (тележки для ворот)</category>
+            <category id="105" parentId="99">Тележки к тали модели CD (тележки для ворот)</category>
+            <category id="1924" parentId="99">Тележки для мини-талей</category>
+            <category id="3017" parentId="99">Тележки для электрических цепных талей</category>
+            <category id="113" parentId="112">Лебедки ручные</category>
+            <category id="127" parentId="112">Лебедки электрические</category>
+            <category id="3088" parentId="112">Лебедки автономные тяговые</category>
+            <category id="3053" parentId="112">Канаты для лебедок</category>
+            <category id="120" parentId="113">Лебедки барабанные ручные </category>
+            <category id="119" parentId="113">Лебедки рычажные ручные</category>
+            <category id="115" parentId="113">Монтажно-тяговые механизмы (МТМ)</category>
+            <category id="227" parentId="127">Лебедка электрическая переносная SQ (PullzAll)</category>
+            <category id="128" parentId="127">Лебедки электрические KCD, JC</category>
+            <category id="2975" parentId="127">Лебедки электрические KDJ (повышенная надежность)</category>
+            <category id="3066" parentId="127">Лебедки электрические TSA</category>
+            <category id="129" parentId="127">Лебедки электрические JM и JK</category>
+            <category id="914" parentId="127">Лебёдки маневровые электрические</category>
+            <category id="3082" parentId="127">Шахтные лебедки</category>
+            <category id="3083" parentId="127">Лебедки для земснаряда</category>
+            <category id="916" parentId="127">Лебедки электрические пр-ва РФ</category>
+            <category id="131">Канаты грузовые к лебедкам рычажным тросовым г/п 0,8 - 5,4 т)</category>
+            <category id="913">Канаты к электролебедкам</category>
+            <category id="137" parentId="132">Домкраты ДГ с гидравлическим возвратом штока</category>
+            <category id="136" parentId="132">Домкраты ДГП с пружинным, гравитационным возвратом</category>
+            <category id="4124" parentId="132">Домкраты универсальные ДУ с резьбой на корпусе (для пресса)</category>
+            <category id="936" parentId="132">Домкраты таблетка (узкие)</category>
+            <category id="898" parentId="132">Домкраты ДГП с полым штоком</category>
+            <category id="2792" parentId="132">Домкраты телескопические</category>
+            <category id="840" parentId="132">Гидроцилиндры</category>
+            <category id="937" parentId="132">Домкраты грузовые с фиксирующей гайкой</category>
+            <category id="938" parentId="132">Домкраты ДГА грузовые алюминиевые</category>
+            <category id="940" parentId="132">Домкраты ступенчатого подъема</category>
+            <category id="947" parentId="132">Домкраты грузовые подкатные</category>
+            <category id="948" parentId="132">Домкраты тянущие</category>
+            <category id="4173" parentId="132">Силовые домкраты</category>
+            <category id="1002" parentId="132">Тензорные домкраты (шпильконатяжители)</category>
+            <category id="142" parentId="140">Домкраты реечные стандартные модели SWL</category>
+            <category id="143" parentId="140">Домкраты реечные модели SWL с низким подхватом</category>
+            <category id="141" parentId="140">Домкраты реечные облегченные модели SJM</category>
+            <category id="144" parentId="140">Домкраты реечные автомобильные модели HI-JACK</category>
+            <category id="935" parentId="140">Домкраты реечные настенные модели MJW</category>
+            <category id="660" parentId="168">Ручные опрессовщики </category>
+            <category id="661" parentId="168">Электрические опрессовщики</category>
+            <category id="2988" parentId="168">Станки опрессовочные</category>
+            <category id="589" parentId="169">Съемник гидравлический со встроенным насосом</category>
+            <category id="170" parentId="169">Съемник гидравлический с выносным насосом</category>
+            <category id="838" parentId="169">Гидравлические съёмники без насоса</category>
+            <category id="875" parentId="169">Съемники гидравлические с фиксацией лап</category>
+            <category id="909" parentId="169">Подкатные сверхмощные гидравлические съёмники </category>
+            <category id="2916" parentId="169">Съемник гидравлический с пневмоприводом</category>
+            <category id="2764" parentId="169">Гидравлический с приводом центрирования</category>
+            <category id="2765" parentId="171">Прессы для опрессовки наконечников, гильз и зажимов в Москве</category>
+            <category id="181">Водонагреватели Thermex</category>
+            <category id="182" parentId="181">Водонагреватели Thermex champion (эмалированные)</category>
+            <category id="183" parentId="181">Водонагреватели Thermex champion slim (эмалированные)</category>
+            <category id="184" parentId="181">Водонагреватели Thermex light (проточно-накопительные)</category>
+            <category id="185" parentId="181">Водонагреватели Thermex sprint (ускоренный нагрев)</category>
+            <category id="186" parentId="181">Водонагреватели Thermex round plus (нержавейка, круглые)</category>
+            <category id="187" parentId="181">Водонагреватели Thermex flat plus (нержавейка, плоские)</category>
+            <category id="188" parentId="181">Водонагреватели Thermex flat diamond touch (сенсорное управление, плоские, нержавейка)</category>
+            <category id="189" parentId="181">Водонагреватели Thermex Art (плоские, оригинальный дизайн, электронная панель управления)</category>
+            <category id="190" parentId="181">Водонагреватели Thermex ultra slim (нержавейка, узкие, диаметр 270мм)</category>
+            <category id="191" parentId="181">Водонагреватели Thermex stream (проточные)</category>
+            <category id="192" parentId="181">Водонагреватели Thermex system (проточные, закрытого типа)</category>
+            <category id="193" parentId="181">Водонагреватели Thermex hit (над/под раковиной)</category>
+            <category id="680" parentId="199">Картофелесажалки, картофелекопалки и другое посадочное оборудование</category>
+            <category id="1878" parentId="199">Комплектующие для минитракторов</category>
+            <category id="2967" parentId="199">Культиваторы тракторные навесные</category>
+            <category id="1006" parentId="199">Сажалки для чеснока и лука (Чеснокосажалки)</category>
+            <category id="1010" parentId="199">Копалки для чеснока</category>
+            <category id="1007" parentId="199">Сеялки СТВ для семян - овощные и зерновые точного высева</category>
+            <category id="841" parentId="199">Косилки</category>
+            <category id="681" parentId="199">Плуги, окучники</category>
+            <category id="1008" parentId="199">Почвофрезы </category>
+            <category id="2775" parentId="199">Мульчеры-измельчители </category>
+            <category id="1009" parentId="199">Погрузчики фронтальные для трактора</category>
+            <category id="1872" parentId="199">Отвалы</category>
+            <category id="1873" parentId="199">Пресс-подборщики</category>
+            <category id="1874" parentId="199">Коммунальное навесное оборудование</category>
+            <category id="1875" parentId="199">Грабли-Сеноворошилки</category>
+            <category id="1876" parentId="199">Опрыскиватели навесные</category>
+            <category id="1877" parentId="199">Разбрасыватели удобрений навесные</category>
+            <category id="1879" parentId="199">Бороны</category>
+            <category id="1937" parentId="199">Адаптеры</category>
+            <category id="2751" parentId="199">Экскаваторы</category>
+            <category id="2752" parentId="199">Снегоуборщики навесные для мотоблоков</category>
+            <category id="3009" parentId="199">Земляные буры</category>
+            <category id="5" parentId="203">Мойки (аппараты) высокого давления</category>
+            <category id="12" parentId="203">Газонокосилки</category>
+            <category id="44" parentId="203">Мотобуры, ямобуры</category>
+            <category id="242" parentId="203">Опрыскиватели</category>
+            <category id="895" parentId="204">Лодочные моторы подвесные</category>
+            <category id="290" parentId="204">Лодки ПВХ</category>
+            <category id="2774" parentId="204">Лодки РИБ</category>
+            <category id="897" parentId="204">Снегоходы</category>
+            <category id="343" parentId="204">Мотобуксировщики | мотособаки</category>
+            <category id="763" parentId="212">Электрические тепловые завесы</category>
+            <category id="764" parentId="212">Водяные тепловые завесы</category>
+            <category id="215" parentId="214">Весы железнодорожные</category>
+            <category id="216" parentId="214">Весы автомобильные</category>
+            <category id="2978" parentId="226">Поворотные такелажные тележки</category>
+            <category id="3065" parentId="226">Такелажные тележки с поворотными роликами (полноповоротные)</category>
+            <category id="2979" parentId="226">Подкатные такелажные тележки</category>
+            <category id="2834" parentId="226">Комплекты такелажных тележек</category>
+            <category id="3090" parentId="226">Ручки к такелажным платформам</category>
+            <category id="995" parentId="226">Такелажные ломы</category>
+            <category id="2973" parentId="226">Тягачи такелажные</category>
+            <category id="3150" parentId="226">Такелажные тележки с ручкой</category>
+            <category id="2829" parentId="229">Ножничные подъемники</category>
+            <category id="2830" parentId="229">Телескопические подъемники (Мачтовые)</category>
+            <category id="3032" parentId="229">Коленчатые подъемники</category>
+            <category id="4128" parentId="229">Электрические строительные леса</category>
+            <category id="4139" parentId="229">Телескопические погрузчики</category>
+            <category id="4077" parentId="253">Бензиновые фрезеровальные машины</category>
+            <category id="4074" parentId="253">Фрезеровальные машины 380В</category>
+            <category id="4075" parentId="253">Фрезеровальные машины 220В</category>
+            <category id="4073" parentId="253">Барабаны, головки</category>
+            <category id="1868" parentId="255">Расходные материалы для станков по работе с арматурой</category>
+            <category id="2940" parentId="258">Булавы и гибкие валы</category>
+            <category id="307" parentId="301">Инструменты для ковки</category>
+            <category id="656" parentId="301">Фальцегибы</category>
+            <category id="961" parentId="301">Станки для работы с листом</category>
+            <category id="970" parentId="301">Станки для работы с арматурой</category>
+            <category id="974" parentId="301">Станки для работы с рулоном</category>
+            <category id="2808" parentId="301">Станки для производства воздуховодов</category>
+            <category id="976" parentId="301">Сверлильные станки по металлу</category>
+            <category id="3041" parentId="301">Сварочные позиционеры</category>
+            <category id="771" parentId="301">Станки для гибки колена (гофроколено)</category>
+            <category id="772" parentId="301">Станки кузнечные</category>
+            <category id="844" parentId="301">Станки плазменной резки металла с ЧПУ</category>
+            <category id="969" parentId="301">Многофункциональные станки</category>
+            <category id="973" parentId="301">Прессы</category>
+            <category id="972" parentId="301">Пресс-ножницы для металла</category>
+            <category id="986" parentId="301">Фрезерные станки</category>
+            <category id="987" parentId="301">Шлифовальные станки по металлу</category>
+            <category id="988" parentId="301">Вытяжки для металлической и абразивной пыли</category>
+            <category id="989" parentId="301">Токарные станки</category>
+            <category id="2928" parentId="301">Переносные машины термической резки металла</category>
+            <category id="990" parentId="301">Ленточнопильные станки</category>
+            <category id="994" parentId="301">Долбежные станки по металлу</category>
+            <category id="1326" parentId="301">Заточные станки</category>
+            <category id="1328" parentId="301">Дисковые пилы по металлу</category>
+            <category id="1332" parentId="301">Фаскосниматели</category>
+            <category id="2816" parentId="301">Давильно-раскатные станки</category>
+            <category id="2817" parentId="301">Станки для ротационной ковки труб</category>
+            <category id="3131" parentId="301">Станки для работы с проволокой</category>
+            <category id="4102" parentId="301">Аллигаторные ножницы</category>
+            <category id="4137" parentId="301">Круглогибы, кронштейногибы и крюкогибы</category>
+            <category id="4169" parentId="301">Оптоволоконные лазерные станки для резки металла </category>
+            <category id="588" parentId="302">Электрические трубогибы</category>
+            <category id="587" parentId="302">Ручные гидравлические трубогибы</category>
+            <category id="2805" parentId="302">Механические ручные трубогибы</category>
+            <category id="962" parentId="303">Листогибы ручные</category>
+            <category id="963" parentId="303">Электромагнитные листогибы</category>
+            <category id="964" parentId="303">Электромеханические листогибы</category>
+            <category id="967" parentId="303">Листогибы сегментные</category>
+            <category id="968" parentId="303">Листогибочные прессы</category>
+            <category id="1322" parentId="303">Аксессуары к листогибам</category>
+            <category id="4170" parentId="303">Гидравлические листогибочные прессы</category>
+            <category id="308" parentId="307">Ручной инструмент для  художественной ковки и металлообработки</category>
+            <category id="2721" parentId="343">Оборудование к мотобуксировщикам </category>
+            <category id="1871" parentId="345">Рукава пескоструйные</category>
+            <category id="77" parentId="359">Весы крановые</category>
+            <category id="214" parentId="359">Весы транспортные</category>
+            <category id="167" parentId="359">Весы напольные платформенные</category>
+            <category id="2828" parentId="359">Весы товарные напольные, весы HoReCa</category>
+            <category id="2736" parentId="359">Торговые весы</category>
+            <category id="2735" parentId="359">Торговые весы с печатью этикеток</category>
+            <category id="2930" parentId="359">Весы автомобильные</category>
+            <category id="2931" parentId="359">Животноводческие весы</category>
+            <category id="2932" parentId="359">Врезные платформенные весы</category>
+            <category id="2933" parentId="359">Низкопрофильные платформенные весы</category>
+            <category id="2934" parentId="359">Паллетные весы</category>
+            <category id="2935" parentId="359">Стержневые весы</category>
+            <category id="2936" parentId="359">Контейнерные весы</category>
+            <category id="2737" parentId="359">Лабораторные весы</category>
+            <category id="2738" parentId="359">Счётные весы</category>
+            <category id="161" parentId="370">Штабелеры ручные гидравлические</category>
+            <category id="162" parentId="370">Штабелеры с электроподъемом </category>
+            <category id="163" parentId="370">Штабелеры электрические самоходные</category>
+            <category id="2746" parentId="370">Ричтраки</category>
+            <category id="164" parentId="371">Дизельные погрузчики вилочные</category>
+            <category id="165" parentId="371">Электрические погрузчики вилочные</category>
+            <category id="166" parentId="371">Погрузчики бензиновые и газовые</category>
+            <category id="3130" parentId="371">Мини-погрузчики фронтальные</category>
+            <category id="4085" parentId="371">Удлинители вил для вилочного погрузчика</category>
+            <category id="404" parentId="403">Мембранные окрасочные аппараты</category>
+            <category id="405" parentId="403">Поршневые окрасочные аппараты с гидроприводом</category>
+            <category id="2821" parentId="403">Машины для дорожной разметки</category>
+            <category id="2918" parentId="403">Бензиновые и дизельные окрасочные аппараты</category>
+            <category id="2" parentId="406">Стабилизаторы напряжения электромеханические</category>
+            <category id="57" parentId="406">Стабилизаторы напряжения Ресанта 220В</category>
+            <category id="207" parentId="406">Цифровые стабилизаторы напряжения 220в</category>
+            <category id="208" parentId="406">Стабилизаторы пониженного напряжения 220В Ресанта</category>
+            <category id="209" parentId="406">Стабилизаторы электромеханического типа 380В Ресанта</category>
+            <category id="412" parentId="411">Стабилизаторы напряжения SUNTEK релейного типа</category>
+            <category id="419" parentId="411">Стабилизаторы напряжения SUNTEK электромеханического типа</category>
+            <category id="420" parentId="411">Стабилизаторы напряжения SUNTEK тиристорного симисторного типа</category>
+            <category id="421" parentId="411">Стабилизаторы напряжения SUNTEK трехфазные</category>
+            <category id="427" parentId="426">Осушители ABAC</category>
+            <category id="428" parentId="426">Прочее</category>
+            <category id="429" parentId="426">Опции </category>
+            <category id="432" parentId="431">Ремни</category>
+            <category id="3091" parentId="440">Машины контактной сварки</category>
+            <category id="3092" parentId="440">Споттеры</category>
+            <category id="3093" parentId="440">Аппараты контактной конденсаторной сварки</category>
+            <category id="515" parentId="514"> Программа Industrial Fubag</category>
+            <category id="132" parentId="554">Домкраты гидравлические ДГ</category>
+            <category id="662" parentId="554">Маслостанции гидравлические (гидравлические насосные станции)</category>
+            <category id="1936" parentId="554">Ручные гидравлические насосы (помпы)</category>
+            <category id="169" parentId="554">Съёмники гидравлические</category>
+            <category id="168" parentId="554">Опрессовщики</category>
+            <category id="2887" parentId="554">Фланцевый инструмент</category>
+            <category id="2756" parentId="554">Шинообрабатывающий инструмент</category>
+            <category id="2955" parentId="554">Ножные гидравлические насосы</category>
+            <category id="2722" parentId="554">Уголкорезы для резки стального уголка</category>
+            <category id="171" parentId="554">Опрессовщик кабеля гидравлический</category>
+            <category id="173" parentId="554">Кабелерезы гидравлические и ручные</category>
+            <category id="4177" parentId="554">Разжим-кусачки</category>
+            <category id="3133" parentId="554">Арматурогибы гидравлические</category>
+            <category id="80" parentId="554">Домкраты автомобильные</category>
+            <category id="175" parentId="554">Арматурорезы гидравлические</category>
+            <category id="2937" parentId="554">Перфораторы гидравлические</category>
+            <category id="2888" parentId="554">Гидравлический инструмент для гаек</category>
+            <category id="3117" parentId="554">Комплектующие для гидравлики</category>
+            <category id="4172" parentId="554">Домкраты железнодорожные</category>
+            <category id="423" parentId="629">Фильтры</category>
+            <category id="424" parentId="629">Расходники к винтовым компрессорам ABAC</category>
+            <category id="425" parentId="629">Приводные ремни ABAC</category>
+            <category id="426" parentId="629">Вспомогательное оборудование для компрессора Abac</category>
+            <category id="430" parentId="629">Масло компрессорное Abac</category>
+            <category id="431" parentId="629">Расходные материалы ABAC линейка 2011 </category>
+            <category id="254" parentId="642">Станки для гибки арматуры</category>
+            <category id="255" parentId="642">Станки для резки арматуры</category>
+            <category id="230" parentId="642">Правильно-отрезные станки для арматуры</category>
+            <category id="4093" parentId="642">Правильно-гибочная линия для арматуры</category>
+            <category id="3094" parentId="642">Бухтодержатели для арматуры</category>
+            <category id="260" parentId="642">Пистолеты для вязки арматуры</category>
+            <category id="3134" parentId="642">Арматурогибы ручные электрогидравлические</category>
+            <category id="3135" parentId="642">Арматурорезы ручные электрогидравлические и гидравлические</category>
+            <category id="4069" parentId="642">Аксессуары</category>
+            <category id="663" parentId="662">Маслостанции одностороннего действия</category>
+            <category id="665" parentId="662">Маслостанции двустороннего действия (двухпоточные)</category>
+            <category id="839" parentId="662">Маслостанции трёхпоточные</category>
+            <category id="689" parentId="688">Аппараты для стыковой сварки</category>
+            <category id="3164" parentId="688">Сварочные экструдеры</category>
+            <category id="3125" parentId="688">Электромуфтовые сварочные аппараты</category>
+            <category id="690" parentId="688">Паяльники для сварки враструб</category>
+            <category id="710" parentId="709">Блоки АВР (автоматического ввода резерва)</category>
+            <category id="782" parentId="709">Блок-контейнеры</category>
+            <category id="1">Стабилизаторы напряжения</category>
+            <category id="1909">Редукторы</category>
+            <category id="20" parentId="715">Обогреватели</category>
+            <category id="2715" parentId="715">Оборудование для канализации и водоотведения</category>
+            <category id="718" parentId="717">Лестницы передвижные</category>
+            <category id="4171" parentId="717">Монтажные подставки</category>
+            <category id="724" parentId="723">Консольно-моноблочные насосы с резьбовыми раструбами</category>
+            <category id="725" parentId="723">Консольно-моноблочные насосы с фланцевыми раструбами</category>
+            <category id="726" parentId="723">Консольные насосы (Россия)</category>
+            <category id="727" parentId="723">Консольно-моноблочные насосы (Россия)</category>
+            <category id="729" parentId="728">Гидромолоты, комплектующие и запчасти</category>
+            <category id="731" parentId="728">Ковши, рыхлители, зубья, адаптеры</category>
+            <category id="740" parentId="728">Мульчеры</category>
+            <category id="743" parentId="728">Навесное оборудование для МТЗ, ЮМЗ и ВТЗ</category>
+            <category id="33" parentId="761">Профессиональные алмазные диски Messer</category>
+            <category id="514" parentId="761">Алмазные диски Fubag</category>
+            <category id="762" parentId="761">Алмазные диски Diam</category>
+            <category id="835" parentId="761">Алмазные диски ТСС</category>
+            <category id="766">Газовые настенные котлы</category>
+            <category id="767">Котел газовый напольный</category>
+            <category id="768">Бойлеры косвенного нагрева</category>
+            <category id="769">ТЭНы электрические для бойлеров Electrolux</category>
+            <category id="770">Котлы твердотопливные</category>
+            <category id="783" parentId="782">Мини блок-контейнеры серии БК</category>
+            <category id="784" parentId="782">Панельные блок-контейнеры ПБК</category>
+            <category id="785" parentId="782">Универсальные блок-контейнеры серии УБК</category>
+            <category id="786" parentId="782">Арктическое исполнение блок-контейнеров</category>
+            <category id="787" parentId="782">Дополнительное оборудование для блок-контейнеров</category>
+            <category id="803" parentId="787">Шумопоглощающие маркизы</category>
+            <category id="804" parentId="787">Салазки</category>
+            <category id="827" parentId="787">TSS SA</category>
+            <category id="2964" parentId="791">Бензиновые двигатели</category>
+            <category id="2965" parentId="791">Дизельные двигатели</category>
+            <category id="2806" parentId="841">Роторные косилки</category>
+            <category id="2807" parentId="841">Сегментные косилки</category>
+            <category id="1880" parentId="841">Молотковые (цеповые) косилки (Мульчеры)</category>
+            <category id="859" parentId="856">Сварочные горелки</category>
+            <category id="703" parentId="856">Баллоны газовые</category>
+            <category id="704" parentId="856">Блоки водяного охлаждения</category>
+            <category id="14">Триммеры электрические</category>
+            <category id="10">Бензиновые триммеры (бензокосы)</category>
+            <category id="862" parentId="861">Аппараты ручной дуговой сварки</category>
+            <category id="17" parentId="861">Сварочные полуавтоматы</category>
+            <category id="34" parentId="861">Аппараты аргонодуговой (аргонной) сварки</category>
+            <category id="18" parentId="861">Плазморезы</category>
+            <category id="2767" parentId="861">Подающие механизмы для полуавтомата</category>
+            <category id="3165" parentId="861">Аппараты для сварки кровли и полимеров</category>
+            <category id="3166" parentId="861">Ручные сварочные фены</category>
+            <category id="3132" parentId="861">Станки плазменной резки металла с ЧПУ</category>
+            <category id="3081" parentId="861">Аппараты лазерной сварки</category>
+            <category id="410" parentId="861">Сварочные агрегаты</category>
+            <category id="652" parentId="861">Сварочные автоматы под флюсом</category>
+            <category id="440" parentId="861">Аппараты для точечной (контактной) сварки</category>
+            <category id="688" parentId="861">Аппараты для сварки полипропиленовых труб</category>
+            <category id="2974" parentId="861">Сварочные вращатели, позиционеры</category>
+            <category id="3080" parentId="861">Магнитные угольники</category>
+            <category id="1921" parentId="861">Блоки жидкостного охлаждения сварочных аппаратов</category>
+            <category id="2769" parentId="861">Трансформаторы</category>
+            <category id="2842" parentId="861">Тележки для сварочных аппаратов</category>
+            <category id="2929" parentId="861">Машины газовой резки, машины термической резки металла</category>
+            <category id="2942" parentId="861">Столы сварочные</category>
+            <category id="3033" parentId="861">Термопеналы и электропечи</category>
+            <category id="3006" parentId="861">Балластные реостаты сварочные</category>
+            <category id="42" parentId="866">Электроды</category>
+            <category id="885" parentId="866">Сварочная проволока</category>
+            <category id="886" parentId="866">Присадочные прутки</category>
+            <category id="856" parentId="866">Комплектующие для сварочных аппаратов</category>
+            <category id="867" parentId="866">Средства защиты для сварочных работ</category>
+            <category id="4088" parentId="866">Комплектующие для сварочных машин</category>
+            <category id="887" parentId="867">Сварочные маски Хамелеон</category>
+            <category id="888" parentId="867">Защитные краги и перчатки для сварки</category>
+            <category id="86" parentId="884">Тали электрические канатные CD, MD</category>
+            <category id="3141" parentId="884">Тельферы Болгария</category>
+            <category id="1920" parentId="884">Тельферы Россия</category>
+            <category id="3148" parentId="884">Тали канатные УСВ (с уменьшенной строительной высотой)</category>
+            <category id="140" parentId="891">Домкраты реечные </category>
+            <category id="145" parentId="891">Домкраты винтовые</category>
+            <category id="435" parentId="894">Расходные материалы для компрессора ATMOS</category>
+            <category id="629" parentId="894">Расходные материалы для компрессора Abac</category>
+            <category id="920" parentId="919">Захваты горизонтальные</category>
+            <category id="922" parentId="919">Захваты вертикальные</category>
+            <category id="924" parentId="919">Захваты для сендвич-панелей</category>
+            <category id="927" parentId="919">Захваты для кабеля</category>
+            <category id="4134" parentId="919">Захваты для паллет</category>
+            <category id="925" parentId="919">Захваты для труб</category>
+            <category id="926" parentId="919">Захваты для бочек</category>
+            <category id="3027" parentId="919">Захваты для рельс</category>
+            <category id="928" parentId="919">Штыревые захваты (замок Смаля)</category>
+            <category id="929" parentId="919">Захваты для блоков и бордюров</category>
+            <category id="930" parentId="919">Балочные захваты</category>
+            <category id="931" parentId="919">Захваты для барабанов</category>
+            <category id="2761" parentId="919">Захваты для лестничных маршей</category>
+            <category id="2910" parentId="919">Захваты вилочные</category>
+            <category id="2911" parentId="919">Захваты для контейнеров</category>
+            <category id="2912" parentId="919">Захваты для опалубки</category>
+            <category id="3007" parentId="919">Захваты для погрузчиков</category>
+            <category id="4141" parentId="919">Струбцины монтажные</category>
+            <category id="4143" parentId="919">Захваты для баллонов</category>
+            <category id="4145" parentId="919">Захваты для шпунта</category>
+            <category id="146" parentId="932">Краны гидравлические ручные</category>
+            <category id="933" parentId="932">Краны козловые мобильные (МПУ)</category>
+            <category id="934" parentId="932">Краны строительные</category>
+            <category id="3068" parentId="932">Краны консольные</category>
+            <category id="845" parentId="936">Домкраты низкие телескопические</category>
+            <category id="306" parentId="961">Шринкеры</category>
+            <category id="659" parentId="961">Гильотины</category>
+            <category id="303" parentId="961">Листогибы</category>
+            <category id="984" parentId="961">Угловысечные станки</category>
+            <category id="985" parentId="961">Фальцепрокатные станки</category>
+            <category id="991" parentId="961">Вальцовочные станки</category>
+            <category id="992" parentId="961">Зиговочные станки</category>
+            <category id="655" parentId="961">Фальцеосадочные станки</category>
+            <category id="1324" parentId="961">Рычажные ножницы</category>
+            <category id="2757" parentId="961">Формовка листового металла</category>
+            <category id="3161" parentId="970">Гибщики арматуры электрические</category>
+            <category id="3162" parentId="970">Резчики арматуры электрические</category>
+            <category id="3163" parentId="970">Правильно-отрезные станки</category>
+            <category id="657" parentId="974">Разматыватели металла</category>
+            <category id="993" parentId="974">Станки продольно-поперечной резки</category>
+            <category id="1329" parentId="974">Кровельные станки</category>
+            <category id="977" parentId="976">Радиально-сверлильные станки</category>
+            <category id="978" parentId="976">Магнитные сверлильные станки</category>
+            <category id="4118" parentId="976"> Столы и магнитные держатели</category>
+            <category id="982" parentId="979">Станочные тиски</category>
+            <category id="4091" parentId="979">Трубные тиски</category>
+            <category id="2818" parentId="985">Станки для TDF фланца</category>
+            <category id="1325" parentId="990">Аксессуары к ленточнопильным станкам</category>
+            <category id="2920" parentId="1003">Торцевые гайковерты</category>
+            <category id="2921" parentId="1003">Кассетные гайковерты</category>
+            <category id="942" parentId="1004">Электродвигатели тельфера КГЕ, ККЕ, КЕ, АВЕ, CD</category>
+            <category id="943" parentId="1004">Вентиляторы с феродо </category>
+            <category id="99" parentId="1004">Тележки для тали и ворот (Кошки)</category>
+            <category id="3031" parentId="1004">Редукторы для талей CD</category>
+            <category id="109" parentId="1004">Крюковые подвески к электроталям</category>
+            <category id="3035" parentId="1004">Барабаны для талей</category>
+            <category id="110" parentId="1004">Радиопульты, комплекты промышленного радиоуправления (Telecrane)</category>
+            <category id="111" parentId="1004">Ограничители грузоподъемности к тали электрической</category>
+            <category id="333" parentId="1004">Запасные части для тельфера</category>
+            <category id="1918" parentId="1004">Пульты управления для кранов и тельфера</category>
+            <category id="2954" parentId="1004">Мотор-редукторы ТР1</category>
+            <category id="4174" parentId="1004">Комплектующие для кранов</category>
+            <category id="1867" parentId="1018">Расходные материалы для виброплит</category>
+            <category id="4166" parentId="1018">Комплектующие для виброреек</category>
+            <category id="1944" parentId="1018">Комплектующие и расходные материалы для затирочных машин</category>
+            <category id="252" parentId="1018">Комплектующие и расходные материалы для мозаично-шлифовальных машин</category>
+            <category id="259" parentId="1018">Валы гибкие для глубинных вибраторов</category>
+            <category id="1012" parentId="1249">Блоки автоматики для генераторов</category>
+            <category id="3056" parentId="1326">Вытяжки для заточных станков</category>
+            <category id="81" parentId="1333">Навесное и прицепное оборудование </category>
+            <category id="13" parentId="1333">Мотоблоки</category>
+            <category id="1334" parentId="1333">Культиваторы</category>
+            <category id="15" parentId="1333">Снегоуборочные машины</category>
+            <category id="3038" parentId="1333">Опрыскиватели и распылители</category>
+            <category id="4126" parentId="1333">Мини-погрузчики</category>
+            <category id="626" parentId="1333">Прицепы для мотоблоков и минитракторов (тележки)</category>
+            <category id="3057" parentId="1333">Клининговое оборудование</category>
+            <category id="199" parentId="1333">Навесное оборудование для сельхоз техники - мотоблоков и тракторов</category>
+            <category id="791" parentId="1333">Двигатели</category>
+            <category id="2966" parentId="1334">Культиваторы междурядные навесные</category>
+            <category id="340" parentId="1334">Мотокультиваторы (бензиновые культиваторы)</category>
+            <category id="1335" parentId="1334">Электрические культиваторы</category>
+            <category id="808" parentId="1867">Коврики для виброплит</category>
+            <category id="1251" parentId="1867">Баки для воды к виброплитам</category>
+            <category id="78" parentId="1869">Затирочные машины </category>
+            <category id="250" parentId="1869">Мозаично-шлифовальные машины</category>
+            <category id="847" parentId="1869">Растворосмесители и растворонасосы</category>
+            <category id="28" parentId="1869">Бетономешалки</category>
+            <category id="258" parentId="1869">Глубинные вибраторы</category>
+            <category id="1870" parentId="1869">Емкости для раствора, бадьи для бетона</category>
+            <category id="2824" parentId="1874">Снегоуборщики навесные для тракторов</category>
+            <category id="2825" parentId="1874">Коммунальные щетки</category>
+            <category id="2826" parentId="1874">Измельчители древесины и веток</category>
+            <category id="2827" parentId="1874">Грейдеры</category>
+            <category id="1892" parentId="1881">Шиномонтажное оборудование</category>
+            <category id="2948" parentId="1881">Гидравлические прессы</category>
+            <category id="1885" parentId="1881">Подъемники для автосервиса</category>
+            <category id="2949" parentId="1881">Тележки для автосервиса</category>
+            <category id="4179" parentId="1881">Съемники и выпрессовщики шкворней</category>
+            <category id="3077" parentId="1881">Моечное оборудование</category>
+            <category id="2947" parentId="1881">Компрессоры для СТО</category>
+            <category id="2946" parentId="1881">Подкатные и зацепные домкраты</category>
+            <category id="2972" parentId="1881">Сушки инфракрасные </category>
+            <category id="3127" parentId="1881">Шлифовальные машины</category>
+            <category id="1887" parentId="1881">Траверсы</category>
+            <category id="1884" parentId="1881">Стойки трансмиссионные</category>
+            <category id="1889" parentId="1881">Системы парковки</category>
+            <category id="1883" parentId="1881">Подставки автомобильные</category>
+            <category id="1903" parentId="1881">Окрасочное оборудование для автосервиса</category>
+            <category id="3011" parentId="1881">Стяжки пружин</category>
+            <category id="3079" parentId="1881">Аксессуары и комплектующие</category>
+            <category id="1886" parentId="1885">Ножничные автомобильные подъемники</category>
+            <category id="1888" parentId="1885">Подъёмники для мототехники</category>
+            <category id="1890" parentId="1885">Двухстоечные подъемники для автосервисов</category>
+            <category id="1891" parentId="1885">Подъемники четырехстоечные для развал-схождения</category>
+            <category id="4136" parentId="1885">Парковочные подъемники</category>
+            <category id="1893" parentId="1892">Шиномонтажные станки</category>
+            <category id="1894" parentId="1892">Балансировочные станки</category>
+            <category id="1895" parentId="1892">Вулканизаторы</category>
+            <category id="1896" parentId="1892">Станки для правки дисков (дископрав)</category>
+            <category id="1898" parentId="1892">Борторасширители</category>
+            <category id="1899" parentId="1892">Бортоотжиматели</category>
+            <category id="1900" parentId="1892">Генераторы азота</category>
+            <category id="1901" parentId="1892">Резервуары для подкачки колес (бустер)</category>
+            <category id="1902" parentId="1892">Ванны для проверки колес</category>
+            <category id="3074" parentId="1892">Оборудование для накачивания колес (клети)</category>
+            <category id="4100" parentId="1892">Оборудование для переработки резины</category>
+            <category id="1904" parentId="1903">Окрасочные камеры</category>
+            <category id="1905" parentId="1903">Посты подготовки к окраске</category>
+            <category id="1906" parentId="1903">Сушки инфракрасные</category>
+            <category id="1910" parentId="1909">Одноступенчатые редукторы</category>
+            <category id="1925" parentId="1909">Одноступенчатые мотор-редукторы</category>
+            <category id="1927" parentId="1909">Двухступенчатые червячные редукторы</category>
+            <category id="1928" parentId="1909">Двухступенчатые мотор-редукторы</category>
+            <category id="1929" parentId="1909">Редукторы цилиндро-червячные</category>
+            <category id="1930" parentId="1909">Мотор-редукторы цилиндро-червячные</category>
+            <category id="2953" parentId="1909">Трехступенчатые цилиндрические редукторы</category>
+            <category id="1680" parentId="1944">Затирочные диски</category>
+            <category id="1681" parentId="1944">Комплекты лопастей (ножей) для затирочных машин</category>
+            <category id="1682" parentId="1944">Приводы для затирочных машин</category>
+            <category id="61" parentId="1950">Виброплиты</category>
+            <category id="195" parentId="1950">Виброрейки</category>
+            <category id="257" parentId="1950">Виброкатки</category>
+            <category id="197" parentId="1950">Вибротрамбовки</category>
+            <category id="2941" parentId="1950">Вибробулавы</category>
+            <category id="2712" parentId="2711">Дополнительное оборудование для блок-контейнеров</category>
+            <category id="2714" parentId="2711">Панельные блок-контейнеры ПБК</category>
+            <category id="2713" parentId="2712">Салазки</category>
+            <category id="2720" parentId="2712">TSS SA</category>
+            <category id="2716" parentId="2715">Прочистные машины для канализации</category>
+            <category id="2717" parentId="2715">Телеинспекция скважин и трубопроводов</category>
+            <category id="4092" parentId="2715">Аксессуары для телеинспекций</category>
+            <category id="2719">Дренажные насосы до 26 (м3/ч) напор до 15 (м)</category>
+            <category id="371" parentId="2725">Вилочные погрузчики</category>
+            <category id="370" parentId="2725">Штабелеры</category>
+            <category id="393" parentId="2725">Электророхли (тележки электрические самоходные)</category>
+            <category id="66" parentId="2725">Рохли (Гидравлические тележки)</category>
+            <category id="2852" parentId="2725">Тележки грузовые</category>
+            <category id="359" parentId="2725">Весы</category>
+            <category id="717" parentId="2725">Лестницы</category>
+            <category id="2741" parentId="2725">Упаковочное оборудование</category>
+            <category id="2822" parentId="2725">Электротягачи</category>
+            <category id="247" parentId="2725">Комплектовщики заказов </category>
+            <category id="2820" parentId="2725">Поводковые тягачи</category>
+            <category id="245" parentId="2725">Бочкокантователи (тележки для перевозки бочек)</category>
+            <category id="3021" parentId="2725">Шкафы и контейнеры</category>
+            <category id="3023" parentId="2725">Поддоны и паллеты</category>
+            <category id="3060" parentId="2725">АКБ для тележек и штабелеров</category>
+            <category id="4089" parentId="2741">Паллетоупаковщики (паллетообмотчики)</category>
+            <category id="2742" parentId="2741">Упаковочные столы</category>
+            <category id="4090" parentId="2741">Рампы для паллетообмотчиков</category>
+            <category id="2743" parentId="2741">Импульсные сварщики</category>
+            <category id="2744" parentId="2741">Запайщики лотков</category>
+            <category id="4095" parentId="2741">Индукционные запайщики</category>
+            <category id="4096" parentId="2741"> Блистер упаковочная машина </category>
+            <category id="4101" parentId="2741">Стреппинг-машины</category>
+            <category id="649" parentId="2756">Шиногибы гидравлические</category>
+            <category id="1932" parentId="2756">Шинорезы гидравлические</category>
+            <category id="1933" parentId="2756">Шинодыры гидравлические</category>
+            <category id="2835" parentId="2756">Шинообрабатывающие станки</category>
+            <category id="585" parentId="2762">Пресс гидравлический </category>
+            <category id="2987" parentId="2762">Опрессовочные станки для РВД</category>
+            <category id="4158" parentId="2772">Электрогидравлические труборезы</category>
+            <category id="3151" parentId="2772">Электрические труборезы</category>
+            <category id="2759" parentId="2772">Труборезы ручные</category>
+            <category id="2796" parentId="2795">Платформенные тележки</category>
+            <category id="2797" parentId="2795">Каркасные тележки</category>
+            <category id="3004" parentId="2795">Тележки для мебели</category>
+            <category id="3020" parentId="2795">Тележки-контейнеры</category>
+            <category id="3071" parentId="2795">Тележки для бочек</category>
+            <category id="3008" parentId="2795">Специальные тележки</category>
+            <category id="3018" parentId="2795">Инструментальные тележки</category>
+            <category id="3022" parentId="2795">Тележки для комплектации заказов</category>
+            <category id="2810" parentId="2808">Станки для сборки отводов</category>
+            <category id="2814" parentId="2808">Спирально-навивные станки</category>
+            <category id="2815" parentId="2808">Автоматические линии для гибки коробов</category>
+            <category id="3051" parentId="2829">Самоходные ножничные подъемники</category>
+            <category id="3052" parentId="2829">Несамоходные ножничные подъемники</category>
+            <category id="2795" parentId="2852">Тележки платформенные ручные</category>
+            <category id="3019" parentId="2852">Большегрузные тележки</category>
+            <category id="650" parentId="2887">Разгонщики фланцев</category>
+            <category id="3067" parentId="2887">Сгонщики фланцев</category>
+            <category id="2723" parentId="2887">Фланцевые выравниватели</category>
+            <category id="174" parentId="2888">Гайколомы (гайкорезы) гидравлические</category>
+            <category id="1003" parentId="2888">Гайковерты гидравлические</category>
+            <category id="302" parentId="2913">Трубогибы</category>
+            <category id="2772" parentId="2913">Труборезы</category>
+            <category id="2982" parentId="2913">Резьбонарезные станки</category>
+            <category id="4180" parentId="2913">Пресс инструмент для обжима фитингов</category>
+            <category id="3013" parentId="2913">Клупп электрический</category>
+            <category id="3039" parentId="2913">Машины для резки труб</category>
+            <category id="4161" parentId="2913">Желобонакаточные станки</category>
+            <category id="4162" parentId="2913">Станки для вырезания отверстий в трубах</category>
+            <category id="4163" parentId="2913">Станки и устройства для вырезания седловин на трубах</category>
+            <category id="403" parentId="2923">Безвоздушные окрасочные аппараты</category>
+            <category id="2924" parentId="2923">Штукатурные станции</category>
+            <category id="2926" parentId="2923">Промышленное окрасочное оборудование</category>
+            <category id="4151" parentId="2923">Краскораспылители профессиональные</category>
+            <category id="4152" parentId="2923">Мойки для краскопультов</category>
+            <category id="2927" parentId="2923">Аппараты для окраски и очистки труб</category>
+            <category id="3126" parentId="2923">Шлифмашинки</category>
+            <category id="4071" parentId="2923">Бункеры подачи материалов</category>
+            <category id="2999">Задвижки</category>
+            <category id="2998">Затворы</category>
+            <category id="2994">Компенсаторы и вибровставки</category>
+            <category id="2995">Фильтры, грязевики, элеваторы</category>
+            <category id="2997">Краны</category>
+            <category id="3000">Вентили запорные</category>
+            <category id="3098">Клапаны обратные для воды и канализации</category>
+            <category id="3001">Расходомеры, счетчики</category>
+            <category id="4083" parentId="2978">Поворотные тележки с ручкой</category>
+            <category id="4084" parentId="2978">Поворотные тележки без ручки</category>
+            <category id="2984" parentId="2983">Установки алмазного бурения</category>
+            <category id="4081" parentId="2984">Стойки установки алмазного бурения</category>
+            <category id="4082" parentId="2984">Двигатели для алмазного бурения</category>
+            <category id="2986" parentId="2985">Алмазные бурильные станки</category>
+            <category id="3002" parentId="2997">Разборные шаровые краны</category>
+            <category id="3003" parentId="2997">Цельносварные шаровые краны</category>
+            <category id="2990" parentId="2999">Задвижки шиберные</category>
+            <category id="2991" parentId="2999">Задвижки стальные</category>
+            <category id="2992" parentId="2999">Задвижки чугунные</category>
+            <category id="3015" parentId="3014">Подвесные балки</category>
+            <category id="3016" parentId="3014">Опорные балки</category>
+            <category id="4109" parentId="3014">Тележки для концевых балок</category>
+            <category id="4146" parentId="3014">Редукторы для балок</category>
+            <category id="3137" parentId="3028">Пространственные траверсы</category>
+            <category id="4142" parentId="3028">Траверсы для колесной пары</category>
+            <category id="3075">Оборудование для накачивания колес</category>
+            <category id="3054" parentId="3053">Канаты для лебедок MTM</category>
+            <category id="2919" parentId="3057">Поломоечные машины</category>
+            <category id="3058" parentId="3057">Подметальные машины</category>
+            <category id="4148" parentId="3057">Промышленные пылесосы</category>
+            <category id="4150" parentId="3057">Дробеструйные машины</category>
+            <category id="4175" parentId="3057">Сушилки для ковров и пола</category>
+            <category id="4176" parentId="3057">Пеногенераторы</category>
+            <category id="3115" parentId="3060">АКБ для самоходных тележек</category>
+            <category id="3116" parentId="3060">Батареи для штабелеров</category>
+            <category id="4140" parentId="3060">АКБ для погрузчиков</category>
+            <category id="3078" parentId="3077">Мойки колес</category>
+            <category id="3086" parentId="3085">Станки для намотки кабеля</category>
+            <category id="3087" parentId="3085">Толкатели кабельные</category>
+            <category id="3059" parentId="3085">Станки для разделки кабеля</category>
+            <category id="3118" parentId="3117">Быстроразъемные соединения (БРС)</category>
+            <category id="3119" parentId="3117">Манометры</category>
+            <category id="3120" parentId="3117">Распределители, гидрозамки</category>
+            <category id="3122" parentId="3117">Рукава высокого давления (РВД)</category>
+            <category id="4079" parentId="4078">Рефрижераторные осушители сжатого воздуха</category>
+            <category id="4138" parentId="4078">Адсорбционные осушители</category>
+            <category id="4094" parentId="4089">Роботы-паллетайзеры</category>
+            <category id="4098">Счетчики капсул/таблеток</category>
+            <category id="4099">Капсуляторы</category>
+            <category id="4135" parentId="4103">Пакетировочные прессы</category>
+            <category id="4178" parentId="4103">Брикетировочные прессы</category>
+            <category id="4104" parentId="4103">Грануляторы полимеров, пластика и пленки</category>
+            <category id="4112" parentId="4103">Промышленные шредеры</category>
+            <category id="4113" parentId="4103">Дробилки</category>
+            <category id="4114" parentId="4103">Агломераторы</category>
+            <category id="4115" parentId="4103">Центрифуги</category>
+            <category id="4116" parentId="4103">Мойки для переработки</category>
+            <category id="4117" parentId="4103">Циклоны</category>
+            <category id="4119" parentId="4103">Полимерпесчаное оборудование</category>
+            <category id="4123" parentId="4103">Транспортеры и конвейеры</category>
+            <category id="4120" parentId="4119">Агрегаты плавильно-нагревательные</category>
+            <category id="4121" parentId="4119">Полимерпесчаные прессы</category>
+            <category id="4122" parentId="4119">Смесители и сушки сыпучих материалов</category>
+            <category id="4155" parentId="4119">Радиальные вентиляторы</category>
+            <category id="4129" parentId="4132">Обжимные станки </category>
+            <category id="4130" parentId="4132">Отрезные станки</category>
+            <category id="4131" parentId="4132">Окорочные станки</category>
+            <category id="4144" parentId="4143">Контейнеры для баллонов</category>
+            <category id="4157" parentId="4164">Калибровально-шлифовальные станки</category>
+            <category id="4159" parentId="4164">Шлифовальные станки</category>
+            <category id="4167" parentId="4166">Лезвия для виброреек</category>
+            <category id="4168" parentId="4166">Рейки</category>
+        </categories>
+
+    <offers>
+                                              
+                                
+        <offer id="337581" available="true">
+            <url>https://100kwatt.ru/elektrostancii-i-generatory/benzogeneratori-elektrogeneratori-benzinovie/tss-sgg-5000ei-060040-ru/</url>
+            <price>59035</price>
+            <currencyId>RUB</currencyId>
+            <categoryId>354</categoryId>
+            <vendorCode>060040</vendorCode>
+            <weight>42</weight>
+            <dimensions>56/45/53</dimensions>
+            <picture>https://100kwatt.ru/images/detailed/154/IMAGE-0000001_sjhj-8o.jpg</picture>
+            <picture>https://100kwatt.ru/images/detailed/154/IMAGE-0000002_1496-yw.jpg</picture>
+            <picture>https://100kwatt.ru/images/detailed/154/IMAGE-0000003_pjuz-7l.jpg</picture>
+            <store>true</store>
+	    <pickup>true</pickup>
+	    <delivery>true</delivery>
+            <name>TSS SGG 5000Ei Бензогенератор инверторный</name>
+            <vendor>TSS / ТСС</vendor>
+            <description><![CDATA[ <!--fdp--><!--/fdp--><p><strong>Бензогенератор инверторный TSS SGG 5000Ei в шумопоглащающем кожухе, с электростартом и разъемом для подключения блока автоматики, вырабатывает электричество высокой точности частоты и напряжения. Предназначен для подключения к нему потребителей общей максимальной мощностью до 5,5 кВт. Позволяет напрямую подключать к генератору как обычных потребителей, так и точное электронное оборудование, например, ноутбуки, LCD-телевизоры или смартфон.</strong></p>
+
+<p><u><strong>Надежность работы:</strong></u></p>
+
+<p>Благодаря использованию в этой модели инверторного преобразователя, на выходе получается стабильный ток, без каких-либо скачков, генератор способен регулировать работу двигателя в зависимости от нагрузки: к примеру, если нагрузка составляет половину от выходной мощности, то и мощность двигателя снижается вдвое; это дает значительную экономию топлива. Инверторные модели получаются более легкими и компактными, чем традиционные генераторы.</p>
+
+<p>Благодаря двигателю, специально разработанному под инверторный генератор и особенной конструкции корпуса, удалось значительно понизить уровень шума. Режим ECO обеспечивает экономичный расход топлива, синхронный альтернатор с медными обмотками ротора и статора увеличивает ресурс двигателя. Выход 12 вольт позволяет подзарядить автомобильный аккумулятор в экстренном случае. Инверторный генератор считается оптимальным выбором для нагрузки, чувствительной к качеству тока — такой, как аудиотехника или телевизор.</p>
+
+<p><u><strong>Ключевые особенности:</strong></u></p>
+
+<ul>
+	<li>Система перевода двигателя в экономичный режим</li>
+	<li>Индикаторы на панели показывают параметры напряжения, превышение мощности генератора, низкий уровень масла</li>
+	<li>Многофункциональный дисплей предлагает эффективный способ контроля параметров работы генератора (на дисплее отображаются часы работы, напряжение, частота тока)</li>
+	<li>Медная обмотка альтернатора</li>
+	<li>Защита от короткого замыкания, перегрузки и низкого уровня масла</li>
+	<li>Антивибрационные резиновые ножки</li>
+	<li>Экономичный расход топлива</li>
+	<li>Стабильный ток для точных приборов</li>
+</ul>
+
+<p><strong>Удобный запуск с помощью электростартера:</strong> просто нажал кнопку - и генератор запустился.</p>
+
+<p><strong>Альтернатор с медной обмоткой:</strong> проводит ток быстрее и меньше нагревается при больших нагрузках.</p>
+
+<p><strong>Выход 12 вольт: </strong>позволяет подзарядить автомобильный аккумулятор в экстренном случае.</p>
+
+<p><strong>Режим ECO: </strong>обеспечивает экономичный расход топлива</p>
+
+<p><strong>Цифровой ЖК-дисплей: </strong>на дисплее отображаются часы работы, напряжение, частота тока.</p>
+
+<p><strong>Топливный бак 15 л:</strong> обеспечивает работу агрегата в течение 5,4 ч без дозаправки при нагрузке 75%.</p>
+
+<p><strong>Стабильный ток для точных приборов: </strong>инверторный генератор считается оптимальным выбором для нагрузки, чувствительной к качеству тока — такой, как аудиотехника или телевизор.</p>
+
+<p><u><strong>Комплектация:</strong></u></p>
+
+<ul>
+	<li>Бензогенератор инверторный SGG&nbsp;5000Ei</li>
+	<li>Инструкция по эксплуатации и гарантийный талон производителя</li>
+</ul>
+
+<h4>Характеристики генератора&nbsp;TSS SGG 5000Ei</h4>
+
+<ul>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОДЕЛЬ&nbsp;&nbsp; &nbsp;SGG 5000Ei</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">СЕРИЯ&nbsp;&nbsp; &nbsp;SGG</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОЩНОСТЬ НОМИНАЛЬНАЯ, КВТ&nbsp;&nbsp; &nbsp;5</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОЩНОСТЬ НОМИНАЛЬНАЯ, КВА&nbsp;&nbsp; &nbsp;5</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОЩНОСТЬ МАКСИМАЛЬНАЯ, КВТ&nbsp;&nbsp; &nbsp;5.5</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОЩНОСТЬ МАКСИМАЛЬНАЯ, КВА&nbsp;&nbsp; &nbsp;5.5</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">НАПРЯЖЕНИЕ (В)&nbsp;&nbsp; &nbsp;230</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">КОЭФФИЦИЕНТ МОЩНОСТИ&nbsp;&nbsp; &nbsp;1</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">КОЛИЧЕСТВО ФАЗ&nbsp;&nbsp; &nbsp;1</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ЧАСТОТА, ГЦ&nbsp;&nbsp; &nbsp;50</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">НОМИНАЛЬНЫЙ ТОК (А)&nbsp;&nbsp; &nbsp;21.7</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ОБЪЁМ ТОПЛИВНОГО БАКА (Л)&nbsp;&nbsp; &nbsp;15</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">РАСХОД ТОПЛИВА ПРИ 75% МОЩНОСТИ Л/Ч&nbsp;&nbsp; &nbsp;2.4</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ВИД ТОПЛИВА&nbsp;&nbsp; &nbsp;бензин</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">УРОВЕНЬ ШУМА (DB/7М)&nbsp;&nbsp; &nbsp;78</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ИСПОЛНЕНИЕ&nbsp;&nbsp; &nbsp;Открытое</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">СТЕПЕНЬ ЗАЩИТЫ&nbsp;&nbsp; &nbsp;IP 23</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ТИП ЗАПУСКА&nbsp;&nbsp; &nbsp;ручной/электростартер</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">АВТОЗАПУСК (АВР)&nbsp;&nbsp; &nbsp;Укомплектован разъемом для подключения блока АВР (дополнительная опция - АВР арт.190047)</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">СТЕПЕНЬ АВТОМАТИЗАЦИИ&nbsp;&nbsp; &nbsp;1 (ручной запуск)</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">АВТОНОМНАЯ РАБОТА НА 75% НАГРУЗКИ БЕЗ ДОЗАПРАВ (Ч)&nbsp;&nbsp; &nbsp;5.4</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">КЛЕММЫ ДЛЯ ЗАРЯДКИ АККУМУЛЯТОРА&nbsp;&nbsp; &nbsp;да</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ВОЛЬТМЕТР&nbsp;&nbsp; &nbsp;да</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОДЕЛЬ ДВИГАТЕЛЯ&nbsp;&nbsp; &nbsp;KM172F</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МОЩНОСТЬ ДВИГАТЕЛЯ, КВТ/Л.С.&nbsp;&nbsp; &nbsp;6,62/9,0</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ДВИГАТЕЛЬ&nbsp;&nbsp; &nbsp;Двигатель бензиновый KM172F (SGG 4200Ei)/Engine (01.05.KM172FD-101-H2QA-5)</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">КОЛИЧЕСТВО ЦИЛИНДРОВ&nbsp;&nbsp; &nbsp;1</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ЧАСТОТА ВРАЩЕНИЯ КОЛЕНВАЛА (ОБ/МИН)&nbsp;&nbsp; &nbsp;3600</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">СИСТЕМА ОХЛАЖДЕНИЯ&nbsp;&nbsp; &nbsp;воздушная</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ТАКТНОСТЬ ДВИГАТЕЛЯ&nbsp;&nbsp; &nbsp;4</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ЁМКОСТЬ МАСЛЯНОЙ СИСТЕМЫ (Л)&nbsp;&nbsp; &nbsp;0.6</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">РЕКОМЕНДУЕМЫЙ ТИП МАСЛА&nbsp;&nbsp; &nbsp;SAE 10W-30</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ГЛУШИТЕЛЬ&nbsp;&nbsp; &nbsp;да</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МАССА, КГ&nbsp;&nbsp; &nbsp;42</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ГАБАРИТНЫЕ РАЗМЕРЫ УПАКОВКИ (Д;Ш;В; ММ)&nbsp;&nbsp; &nbsp;555х445х525</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ГАБАРИТНЫЕ РАЗМЕРЫ (Д;Ш;В; ММ)&nbsp;&nbsp; &nbsp;500х422х515</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ГАРАНТИЯ, СРОК (МЕС)&nbsp;&nbsp; &nbsp;12</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">ТИП ГЕНЕРАТОРА&nbsp;&nbsp; &nbsp;Синхронный</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">МАТЕРИАЛ ОБМОТОК АЛЬТЕРНАТОРА&nbsp;&nbsp; &nbsp;медный</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">РЕГУЛЯТОР НАПРЯЖЕНИЯ&nbsp;&nbsp; &nbsp;Инверторный</span></span></li>
+</ul>
+ ]]></description>
+        </offer>
+                                        
+                               
+        <offer id="349688" available="true">
+            <url>https://100kwatt.ru/skladskaya-tehnika/rohli-gidravlicheskie-telezhki-samohodnye-s-elektroprivodom/gros-sl20l3-2-t-samohodnaya-telezhka-s-elektropodemom/</url>
+            <price>102139</price>
+            <currencyId>RUB</currencyId>
+            <categoryId>393</categoryId>
+            <vendorCode>41479</vendorCode>
+            <weight>142</weight>
+            <dimensions>161/55/116</dimensions>
+            <picture>https://100kwatt.ru/images/detailed/224/fabula-ai__72_.png</picture>
+            <picture>https://100kwatt.ru/images/detailed/224/fabula-ai__73_.png</picture>
+            <picture>https://100kwatt.ru/images/detailed/224/54680000001.jpg</picture>
+            <store>true</store>
+	    <pickup>true</pickup>
+	    <delivery>true</delivery>
+            <name>GROS SL20L3 2 т Самоходная тележка с электроподъемом</name>
+            <vendor>GROS</vendor>
+            <description><![CDATA[ <p><strong>Электротележка сопровождаемая грузоподъемностью 2 тонны GROS SL20L3, с электрическим подъемом. Проста в управлении, маневрена, надежна и легка в эксплуатации. Имеет компактную конструкцию, малый радиус поворота и подходит для работы в узком пространстве.</strong></p>
+
+<p><u><strong>Преимущества модели:</strong></u></p>
+
+<ul>
+	<li>Имеет защитный металлический корпус.</li>
+	<li>Портативная литиевая электрическая батарея позволяет легко вытащить и заменить батарею.</li>
+	<li>В стандартную комплектацию электрической тележки GROS входят аварийный выключатель и устройство аварийного реверса для обеспечения безопасного использования.</li>
+	<li>Благодаря функции отключения тормоза при отпускании ручки или нажатии на нижнюю часть, тормоз транспортного средства немедленно отключается.</li>
+	<li>Для обеспечения безопасности сопровождения используется двойная защита электромагнитного торможения и торможения двигателем.</li>
+</ul>
+
+<h4>Характеристики тележки GROS SL20L3</h4>
+
+<ul>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Номинальная грузоподъемность, кг:&nbsp;&nbsp;&nbsp;&nbsp; 2000</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Батарея:&nbsp;&nbsp;&nbsp; литий-ионная 48В 20 Ач</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Расстояние от центра тяжести груза до спинки вил, (c) мм:&nbsp;&nbsp;&nbsp;&nbsp; 600</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Число колёс, передних:&nbsp;&nbsp;&nbsp;&nbsp; 1</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Размер приводного колеса:&nbsp;&nbsp;&nbsp;&nbsp; 210X70</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Число колёс, задних:&nbsp;&nbsp;&nbsp;&nbsp; 4</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Размер опорных колес:&nbsp;&nbsp;&nbsp;&nbsp; 80Х60</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Ведущие колеса:&nbsp;&nbsp;&nbsp;&nbsp; Передние</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Тип шин:&nbsp;&nbsp;&nbsp;&nbsp; Полиуретан</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Дорожный просвет по центру колёсной базы, (m2) с грузом:&nbsp;&nbsp;&nbsp;&nbsp; 35</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Тип двигателя:&nbsp;&nbsp;&nbsp;&nbsp; Электро</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Номинальная мощность двигателя движения, кВт:&nbsp;&nbsp;&nbsp;&nbsp; 0.75</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Номинальная мощность электродвигателя гидронасоса, кВт:&nbsp;&nbsp;&nbsp;&nbsp; 0.8</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Высота подъема вил от, мм:&nbsp;&nbsp;&nbsp;&nbsp; 85</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Высота подъема вил до, мм:&nbsp;&nbsp;&nbsp;&nbsp; 200</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Скорость передвижения (с грузом), км/ч:&nbsp;&nbsp;&nbsp;&nbsp; 4.2</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Скорость передвижения (без груза), км/ч:&nbsp;&nbsp;&nbsp;&nbsp; 4.5</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Максимальный преодолеваемый подъем (с грузом), tanθ(%):&nbsp;&nbsp;&nbsp;&nbsp; 5</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Максимальный преодолеваемый подъем (без груза), tanθ(%):&nbsp;&nbsp;&nbsp;&nbsp; 10</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Внешний радиус поворота, (Wa) мм:&nbsp;&nbsp;&nbsp;&nbsp; 1398</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Минимальная ширина проезда между стеллажами при работе с поддонами 1200х800 мм, хват вдоль (Ast), мм:&nbsp;&nbsp;&nbsp;&nbsp; 1854</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Габаритная длина с вилами, мм:&nbsp;&nbsp;&nbsp;&nbsp; 1603</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Габаритная длина до спинки вил, мм:&nbsp;&nbsp;&nbsp;&nbsp; 1603</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Габаритная ширина, (b1) мм:&nbsp;&nbsp;&nbsp;&nbsp; 550</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Высота по решетку ограждения водителя, (h6) мм:&nbsp;&nbsp;&nbsp;&nbsp; 1160</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Длина стандартных вил, мм:&nbsp;&nbsp;&nbsp;&nbsp; 1150</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Изготовитель:&nbsp;&nbsp;&nbsp;&nbsp; Zhejiang Jialift Warehouse Equipment Co.Ltd.</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Страна производства:&nbsp;&nbsp;&nbsp;&nbsp; Китайская Народная Республика</span></span></li>
+	<li><span style="font-family:Verdana,Geneva,sans-serif;"><span style="font-size:14px;">Эксплуатационная масса без груза, кг:&nbsp;&nbsp;&nbsp;&nbsp; 142</span></span></li>
+</ul>
+ ]]></description>
+        </offer>
+
+                                    
+
+    </offers>
+ </shop>
+</yml_catalog>
